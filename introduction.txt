@@ -1,0 +1,7 @@
+# Brief Introduction About Myself
+
+Hi, I’m Natnael, a software developer learning mernstack and improving my coding skills.  
+I enjoy working on web applications.
+
+I'm passionate about technology, and I'm currently sharpening my skills in MERN stack, DSA, and collaborative development.
+
