@@ -1,0 +1,5 @@
+My Personal and Academic Goals for Next Year
+
+- Improve my DSA skills.  
+- Build and deploy 5 full-stack projects.  
+- Learn system design and mernstack dev.
